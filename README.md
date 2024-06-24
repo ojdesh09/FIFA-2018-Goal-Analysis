@@ -29,10 +29,6 @@ The data used in this dashboard is sourced from a CSV file (`goals.csv`) contain
 - Plotly
 - Pandas
 
-## Screenshots
-
-![Dashboard Screenshot](C:\Users\Ojas\OneDrive\Pictures\Screenshots\Screenshot (28).png)(C:\Users\Ojas\OneDrive\Pictures\Screenshots\Screenshot (26).png)
-
 ## Credits
 
 - This dashboard was created by Ojas Deshpande.
